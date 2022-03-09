@@ -1,0 +1,1 @@
+python  /Users/isaacbevers/ParlAI/parlai/scripts/display_data.py  --task jsonfile --jsonfile-datapath /Users/isaacbevers/cs-projects/cs224n/final/NOESIS-II/subtask1/data/Task_1/ubuntu/task-1.ubuntu.dev.json

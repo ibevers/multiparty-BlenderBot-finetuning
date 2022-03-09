@@ -1,0 +1,137 @@
+
+
+
+
+
+
+        "example-id": 0,
+
+
+
+hi guys, i need some urgent help. i \"rm -rf'd\" a direcotry. any way i can recover it?in short, no.are you sure?Why would you do that?pretty much no
+
+
+        "example-id": 1,
+
+
+
+When I have something playing in XMMS, theres no sound in Enemy Territory. what can I do to fix this?install packages \"alsa-oss\" and lanch the game as \"aoss <game>\"hmmm okay"!info alsa-oss > me"!info alsa-oss > me"seems a little unnessesary though but okay
+
+
+        "example-id": 3,
+
+
+
+Since when did a file become a dir?since forever in Unix... everything's a file...thats the way directories (or anything for the matter) are represented in a filesystem on *nixlinux/unix treats everything as a file."So if I type mkdir blag it creates a writeable file instead of a folder?
+
+
+        "example-id": 6,
+
+
+
+i just installed a new hard disk and rebooted. how do i use it?if it gets recognized okay, you can format the device, make a mount point, and mount it not sure its recognizedit already is formatted and partitioned, info on it, etc
+
+
+        "example-id": 7,
+
+
+
+how do i do this? .. set JAVA_HOME environment variable to /usr/lib/fjsdk (and preferably add /usr/lib/fjsdk/bin at the beginning of your PATH)export JAVA_HOME /blah/blah/path/to/jsdk ?in your .bashrcexport JAVA_HOME=/blah/blah/path/to/jsdk ?"sorry :)"the last one is correcti put that line in .bashrc?yeah, but put the correct path to the jsdk :)like /usr/lib/fjsdk or whatever it isyea im not THAT dumb :Psorry :)but thanks
+
+
+        "example-id": 8,
+
+
+
+i cannot run a C file. error message says i dont have mysql/mysql.h..how can i have it?you need the -dev package for mysql-server"what -dev package is that?"i have libmysqlclient14-dev...and can't download libmysqlclient15-dev..
+
+
+        "example-id": 9,
+
+
+
+how can i make the ubuntu install ask me more question regarding the process of the install ?you can start it in 'expert' modewat questions were you ever specifically?want partman to ask me what kind of layout i want for the partitionsthats done by defaultyou just have to use the manual optionrather than the 'erase entire disk' option in the menu now"where to go?
+
+
+        "example-id": 10,
+
+
+
+My new Regex.... [F] [e] [b] [ ] [5-9]"lolO_o why do you need to do it like that?"becuase the other one wouldn matchjust \"Feb [5-9] \" will do"grep says invalid regexpFeb *[5-9]but notice there are 2 spaces between 'Feb' and '5'"ahhh"And remember to quote it :)
+
+
+        "example-id": 15,
+
+
+
+Can someone help me on how or what command that I can use to set iptables ACCEPT everything on eth0the firewall blocks nothing by defaultush them"I'm using firestarter and I have 3 net cards and it's blocking everything on the 3rd card and I'm trying to let everything on go through
+
+
+        "example-id": 16,
+
+
+
+does ubuntu support the P4 hyperthreading as an SMP machine?it should work on an smp kernelwhen i boot the smp kernel, /proc/cpuinfo only shows one cpu though.u're just greedyu"1 cpu is enough :)righto, then it isn't working for some reasonhaha. but when i had 2 cpu's in fedora, i could rip a cd in half the time"really?"because grip would use them both"now thats cool"then why did yuo leave fedorayeah, it would rip with one cpu, and encode with the otheri want both my machines to have the same os. and i prefered ubuntu over fedora."why?
+
+
+        "example-id": 106,
+
+
+
+i have to shovel the neighbor's walk now"brb"(she's old)good on yadepends if hes doing it out of the grace of his heart, or because he pity's her
+
+
+        "example-id": 107,
+
+
+
+Anyone else having problems with fglrx since last kernel update for Edgy ?everyone who got it from unofficial repositories, yesyou just update iteveryone's having problems with everything after the updates.thx, tried recompiling but still unable to load module :(
+
+
+        "example-id": 113,
+
+
+
+are there many people using ubuntu dapper?"or did most of them upgrade?I use it for work desktops for peoplewhere users want stabilityI have to put together some kind of system that I install by default on Point Of Sale PCs, so dapper is the way to go, right?
+
+
+        "example-id": 114,
+
+
+
+does gparted support ntfs resizing?the latest one on the livecd doesmake sure you defrag and check the ntfs partition for errors BEFORE you resizeis that version 0.3.3.0 ?I want to create a separate partition on my notebook 120gig HDD so I can install Edgy. Will gparted liveCD help me do that without losing MS Windows which is already on the HDD?yes but back up anything you cant afford to lose first. there are occationally problemsokwill partition magic be better to use for that?
+
+
+        "example-id": 116,
+
+
+
+could someone PM me with the text of /etc/cups/cups.d/ports.conf and /etc/cups/cupsd.confi willnt_1
+
+
+        "example-id": 117,
+
+
+
+is there any kind of task viewer like the one in vista for linux?"vista for Linux\" :)I use system monitor."sorry maybe I said something wrong"I mean the task manager thats 3d that shows all your windows
+
+
+        "example-id": 1000007,
+
+
+
+how can i boost microphone volume? The volume is toooooo lowlook for a microphone boost in alsamixertype 'alsamixer' into terminal"how the heck do i use alsamixer? :P what is microphone ?volume on input participant_2 ?arrow keys up and downyes i understand that. But wich one of those things am i supposed to choose ?you wanted input, right?yes. But i there is no way i can turn that up. :Spress tab to go over to capture, then turn it up"aha :) thanks
+
+
+        "example-id": 1000011,
+
+
+
+who can pastebin the normal ubuntu 6.10 sources.list for me pelase?cipant_0The packages in Ubuntu are divided into several sections. More information at https://help.ubuntu.com/community/Repositories and http://www.ubuntu.com/ubuntu/components - See also !EasySource
+
+
+        "example-id": 1000013,
+
+
+
+I have an issues with Samba, how do I configure Samba to allow windows clients to browse the network, I get a message that the network name no longer exists from the windows clients when I try, they are all Windows XP pro, service pack 2 (firewalls off)"any help?are you prompting them for user and pass?not that I know of, but I don't get a prompt in Windows XP for that.
