@@ -9,12 +9,12 @@ TrainModel.main(
     #task='empathetic_dialogues',
     model='transformer/generator',
     model_file='from_pretrained/model',
-    
+k    
     # initialize with a pretrained model
     init_model='zoo:blender/blender_90M/model',
     
     # arguments we get from the pretrained model.
-    # Unfortunately, these must be looked up separately for each model.
+    # Unfortunately, t:hese must be looked up separately for each model.
     n_heads=16, #rec: 16
     n_layers=8, #rec: 8
     n_positions=512, #rec: 512
@@ -29,9 +29,9 @@ TrainModel.main(
     dict_file='zoo:tutorial_transformer_generator/model.dict',
     learn_positional_embeddings=True,
     
-    # some training arguments, specific to this fine-tuning
+    # some training aruments, specific to this fine-tuning
     # use a small learning rate with ADAM optimizer
-    lr=1e-06, optimizer='adamax', #1e-06
+    lr=1e-05, optimizer='adam', #1e-06
     warmup_updates=100l
 
     # early stopping on perplexity
