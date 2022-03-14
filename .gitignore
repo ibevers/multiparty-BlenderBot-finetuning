@@ -1,2 +1,6 @@
 models/empathetic/model
 .DS_Store
+data
+models
+output
+__pycache__
